@@ -1,0 +1,22 @@
+{
+  "name": "simple-server",
+  "version": "0.0.1",
+  "description": "A simple express server",
+  "main": "server/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunyang730/simple-server.git"
+  },
+  "author": "Dennis Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sunyang730/simple-server/issues"
+  },
+  "homepage": "https://github.com/Sunyang730/simple-server#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
